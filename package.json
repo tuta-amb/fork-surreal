@@ -1,10 +1,10 @@
 {
-  "name": "surreal",
+  "name": "surreal.me",
   "version": "1.2.0",
   "description": "Surreal",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gnat/surreal.git"
+    "url": "git+https://github.com/gnat/surreal.git"
   },
   "main": "dist/surreal.min.js",
   "module": "src/index.js",
